@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20841" started-at="2020-08-18T22:35:06Z" finished-at="2020-08-18T22:35:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20841" started-at="2020-08-18T22:35:06Z" finished-at="2020-08-18T22:35:27Z">
+      <class name="com.qa2.hubspot2.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa2.hubspot2.tests.HomePageTest@4c70fda8]" name="setUp" is-config="true" duration-ms="9712" started-at="2020-08-18T17:35:07Z" finished-at="2020-08-18T17:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homeSetup()[pri:0, instance:com.qa2.hubspot2.tests.HomePageTest@4c70fda8]" name="homeSetup" is-config="true" duration-ms="7056" started-at="2020-08-18T17:35:16Z" finished-at="2020-08-18T17:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeSetup -->
+        <test-method status="PASS" signature="verifyHomePageHeader()[pri:1, instance:com.qa2.hubspot2.tests.HomePageTest@4c70fda8]" name="verifyHomePageHeader" duration-ms="2991" started-at="2020-08-18T17:35:23Z" finished-at="2020-08-18T17:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeader -->
+        <test-method status="PASS" signature="verifyLoggedInUserTest()[pri:2, instance:com.qa2.hubspot2.tests.HomePageTest@4c70fda8]" name="verifyLoggedInUserTest" duration-ms="90" started-at="2020-08-18T17:35:26Z" finished-at="2020-08-18T17:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoggedInUserTest -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:3, instance:com.qa2.hubspot2.tests.HomePageTest@4c70fda8]" name="verifyHomePageTitle" duration-ms="17" started-at="2020-08-18T17:35:26Z" finished-at="2020-08-18T17:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa2.hubspot2.tests.HomePageTest@4c70fda8]" name="tearDown" is-config="true" duration-ms="910" started-at="2020-08-18T17:35:26Z" finished-at="2020-08-18T17:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa2.hubspot2.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
